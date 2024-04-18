@@ -426,7 +426,7 @@ font:
 # Shell
 #
 shell:
-  program: /usr/bin/fish
+  program: $SHELL
   args:
     - --login
     - -c
